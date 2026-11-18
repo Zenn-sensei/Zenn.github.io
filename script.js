@@ -1,6 +1,6 @@
 // Agregá tus enlaces cuando los tengas. No inventamos direcciones.
 const socialLinks = {
-  instagram: "", // Ejemplo: https://www.instagram.com/tu_usuario/
+  instagram: "https://www.instagram.com/sensei.zen9/", // Ejemplo: https://www.instagram.com/tu_usuario/
   whatsapp: "https://whatsapp.com/channel/0029VbDnRZDHltYISMMoxL35", // Canal oficial de WhatsApp
   youtube: ""    // Ejemplo: https://www.youtube.com/@tu_canal
 };
